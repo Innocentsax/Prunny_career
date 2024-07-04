@@ -1,6 +1,6 @@
 # Prunny career
 
-## User Authentication and Authorization System
+## User Authentication and Authorization System 🔐
 #### Project Description: Develop a user authentication and authorization system using Spring
 Boot and Spring Security.
 Requirements:
