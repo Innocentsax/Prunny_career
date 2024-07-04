@@ -1,4 +1,4 @@
-## Prunny career
+# Prunny career
 
 ### User Authentication and Authorization System
 #### Project Description: Develop a user authentication and authorization system using Spring
